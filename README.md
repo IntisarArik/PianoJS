@@ -1,7 +1,7 @@
 
 # Piano JS
 
-This simple virtual piano is made using object literals in javascript. This project is a practical example of alternatives to switch statment. Switch statement can be bug prone and violates the Open-Closed Principle. 
+This simple virtual piano is made using object literals in javascript. This project is a practical example of alternatives to switch statements. Switch statement can be bug prone and violates the Open-Closed Principle. Object literal is one of the ways to replace switch statement in your project.
 
 
 ## How the piano works
