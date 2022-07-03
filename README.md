@@ -6,5 +6,5 @@ This simple virtual piano is made using object literals in javascript. This proj
 
 ## How the piano works
 
-Every sound data has been implemented in a key value pair object. Every key has the piano note class name and its value is an arrow function calling the sound data. 
+Every sound data has been implemented in a key value pair object. Every object key has the piano note class name and its value is an arrow function calling the sound data. 
 Whenever a key is pressed, the sound linked with that key is played. 
